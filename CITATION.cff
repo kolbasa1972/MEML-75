@@ -1,0 +1,27 @@
+
+---
+
+## 📄 CITATION.cff
+
+```yaml
+cff-version: 1.2.0
+message: "Если вы используете эту работу, пожалуйста, цитируйте её как указано ниже."
+title: "MEML 75: Феноменологическая модель фермионного сектора Стандартной модели на орбифолде T²/ℤ₃"
+abstract: "Феноменологическая параметризация фермионного сектора СМ на шестимерном орбифолде T²/ℤ₃. Воспроизводит массы, CKM, PMNS и космологию с точностью 0.1-5% при 14 физических параметрах."
+authors:
+  - family-names: "Юров"
+    given-names: "Д. В."
+    orcid: https://orcid.org/0009-0006-5467-7510
+version: "3.0"
+date-released: "2026-10-13"
+license: "MIT"
+repository-code: "https://github.com/kolbasa1972/MEML-75"
+keywords:
+  - "physics"
+  - "Standard Model"
+  - "orbifold"
+  - "fermion masses"
+  - "CKM matrix"
+  - "PMNS matrix"
+  - "flavor physics"
+type: software
