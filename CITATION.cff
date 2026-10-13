@@ -6,7 +6,7 @@ authors:
   - family-names: "Юров"
     given-names: "Д. В."
     orcid: "0009-0006-5467-7510"
-version: "3.2"
+version: "3.3"
 date-released: "2026-10-13"
 license: "MIT"
 repository-code: "https://github.com/kolbasa1972/MEML-75"
