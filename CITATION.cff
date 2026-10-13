@@ -1,9 +1,3 @@
-
----
-
-## 📄 CITATION.cff
-
-```yaml
 cff-version: 1.2.0
 message: "Если вы используете эту работу, пожалуйста, цитируйте её как указано ниже."
 title: "MEML 75: Феноменологическая модель фермионного сектора Стандартной модели на орбифолде T²/ℤ₃"
@@ -11,8 +5,8 @@ abstract: "Феноменологическая параметризация ф�
 authors:
   - family-names: "Юров"
     given-names: "Д. В."
-   orcid: "0009-0006-5467-7510"
-version: "3.0"
+    orcid: "0009-0006-5467-7510"
+version: "3.2"
 date-released: "2026-10-13"
 license: "MIT"
 repository-code: "https://github.com/kolbasa1972/MEML-75"
